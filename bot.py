@@ -187,7 +187,7 @@ xbot = Client('BulkLoader', api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKE
 
 
 if OWNER_ID:
-    OWNER_FILTER = filters.chat(int(6793357832)) & filters.incoming
+    OWNER_FILTER = filters.chat(int(6329158981)) & filters.incoming
 else:
     OWNER_FILTER = filters.incoming
 
