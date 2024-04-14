@@ -7,9 +7,9 @@
     "bulk",
     "downloader"
   ],
-  "success_url": "https://github.com/X-Gorn/BulkLoader",
+  "success_url": "https://github.com/CrazyMindd/Bulk-Loader.git",
   "website": "https://github.com/CrazyMindd",
-  "repository": "https://github.com/X-Gorn/BulkLoader",
+  "repository": "https://github.com/CrazyMindd/Bulk-Loader.git",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
