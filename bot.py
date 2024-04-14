@@ -26,7 +26,7 @@ START_BUTTONS=[
         InlineKeyboardButton("Source", url="https://github.com/X-Gorn/BulkLoader"),
         InlineKeyboardButton("LinkTree", url="https://xgorn.is-a.dev"),
     ],
-    [InlineKeyboardButton("Author", url="https://t.me/xgorn")],
+    [InlineKeyboardButton("Author", url="https://t.me/Crazy_Mind_Official")],
 ]
 
 CB_BUTTONS=[
