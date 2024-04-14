@@ -1,0 +1,6 @@
+Pyrogram
+TgCrypto
+pyromod
+yt-dlp
+hachoir
+python-dotenv
